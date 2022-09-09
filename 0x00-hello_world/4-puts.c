@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main-Printing
+ * main-Printing C
  *
- * Return: Always 0 (successful)
- */
+ * Return: Always 0 (successful as usual)
+ **/
 int main(void)
 {
      puts("\"Programming is like a building a multilingual puzzle");
