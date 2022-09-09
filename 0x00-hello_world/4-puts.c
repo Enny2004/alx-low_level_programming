@@ -3,10 +3,10 @@
 /**
  * main-Printing C
  *
- * Return: Always 0 (successful as usual)
+ * Return:Always 0 (successful as usual)
  **/
 int main(void)
 {
-     puts("\"Programming is like a building a multilingual puzzle");
+     puts("\"Programming is like building a multilingual puzzle");
           return (0);
 }	  
