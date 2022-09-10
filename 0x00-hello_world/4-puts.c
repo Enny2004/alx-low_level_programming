@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *main - printing C
+ *main-printing C
  *
  *Return:Always 0 (successful C)
  */
