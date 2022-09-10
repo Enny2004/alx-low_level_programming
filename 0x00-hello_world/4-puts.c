@@ -2,7 +2,8 @@
 /**
  *main-printing C
  *
- *Return:Always 0 (successful)
+ *Retur:0 if success.
+ *
  */
 int main(void)
 {
