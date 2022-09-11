@@ -2,7 +2,7 @@
 /**
  *main-Codingc
  * 
- *Return:return 0 if no error
+ *Return:return 0 ifnoerror
  */
 int main(void)
 {
