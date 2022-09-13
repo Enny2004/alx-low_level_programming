@@ -3,7 +3,7 @@
 /**
  * main-lowercase alphabets
  *
- * Return;Always(success)
+ * Return;Always (success)
  */
 int main(void)
 {
