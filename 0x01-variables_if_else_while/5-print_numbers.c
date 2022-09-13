@@ -1,15 +1,15 @@
 #include <stdio.h>
 
 /**
- * main-prints the number since 0 to 9
+ * main-prints the numbers since 0 to 9
  *
- * Retun:Always 0
+ * Retun:Always (success)
  */
 int main(void)
 {
 	char n;
 
-	for (n = '0'; n <= '9'; c++)
+	for (n = '0'; n <= '9'; n++)
 	{
 		putchar(n);
 	}
