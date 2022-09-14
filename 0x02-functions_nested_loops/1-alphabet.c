@@ -4,7 +4,7 @@
  *
  * Return:Always (sucessful)
  */
-int main(void)
+void print_alphabet(void)
 {
 	int c;
 
