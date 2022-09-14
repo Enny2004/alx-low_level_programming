@@ -6,17 +6,15 @@
  */
 int main(void)
 {
-	int c
-	
-	printf("void print_alphabet");
+	int c;
 
-	for (c = a; c >= z; c++);
+	for (c = 'a'; c <= 'z'; c++);
 
 	{
-		putchar(c);
+		_putchar(c);
 	}
 
-	putchar('\n');
+	_putchar('\n');
 
 	return(0);
 }
