@@ -7,11 +7,10 @@
 void times_table(void)
 
 {
-	int i;
+	int ch;
+	for (ch = 0; ch <= 10; ch++)
+	_putchar ("%d * %d = %d",numbder,counter,number*counter)
 
-	for (i = 0; i <= 9; i+)
-
-		_putchar("%d" , Write a function that prints the 9 times table, starting with 0'\n')
-
-			_putchar('\n')
+		_putchar('\n');
 }
+
