@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_times_table
+ * print_times_table-print n time table
  * @n: integer for which the time table will be printed
  * Description: printing time table
  * Return: void
@@ -45,7 +45,6 @@ void print_times_table(int n)
 					_putchar(product % 10 + '0');
 				}
 			}
-
 			_putchar('\n');
 		}
 	}
