@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main- causes an infinite ioop
+ * main- causes an infinite loop
  * Return: 0
  */
 
@@ -18,7 +18,7 @@ int main(void)
 	 *	putchar(i);
 	 * }
 	 */
-	printf("infinite ioop avoided! \\o/\n");
+		printf("infinite ioop avoided! \\o/\n");
 
-	return(0);
+		return(0);
 }
