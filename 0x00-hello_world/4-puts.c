@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
  *main-Codingc
- * 
+ *
  *Return:return 0 ifnoerror
  */
 int main(void)
