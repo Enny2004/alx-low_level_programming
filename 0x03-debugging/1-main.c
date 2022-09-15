@@ -19,6 +19,6 @@ int main(void)
 	 * }
 	 */
 
-	printf("infinite ioop avoided! \\o/\n");
-	return(0);
+		printf("infinite ioop avoided! \\o/\n");
+		return(0);
 }
