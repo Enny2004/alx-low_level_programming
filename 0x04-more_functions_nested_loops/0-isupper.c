@@ -3,7 +3,8 @@
  * _isupper-check uppercase character
  * @n: function takes c as input
  *
- * Return: 1 if uppercase, 0 if not
+ * Return: 1 if uppercase
+ * Return 0 if not uppercase
  */
 int _isupper(int c)
 {
