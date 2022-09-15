@@ -12,7 +12,7 @@ int main(void)
 
 	sum = 0;
 	first = 0;
-	second =1;
+	second = 1;
 	count = 0;
 
 	while (count < 49)
