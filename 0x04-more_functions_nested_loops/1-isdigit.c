@@ -3,7 +3,8 @@
  * main-checks for digit
  * @c: Takes c as input
  *
- * Return: 1 if c is a digit 0 if otherwise
+ * Return: 1 if c is a digit
+ * Return 0 if otherwise
  */
 int _isdigit(int c)
 {
