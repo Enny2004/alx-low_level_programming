@@ -2,7 +2,7 @@
 /**
  * print_numbers - a funtion that prints numbers
  *
- * Return: void
+ * return void
  */
 void print_numbers(void)
 {
