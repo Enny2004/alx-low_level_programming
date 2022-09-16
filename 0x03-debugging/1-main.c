@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - causes an infinite loop
+ * main-causes an infinite loop
  *
  * Return: 0
  */
@@ -9,7 +9,6 @@
 int main(void)
 {
 	int i;
-
 	printf("infinite loop incoming :(\n");
 
 	i=0;
@@ -22,5 +21,5 @@ int main(void)
 
 		printf("infinite ioop avoided! \\o/\n");
 
-		return(0);
+		return (0);
 }
