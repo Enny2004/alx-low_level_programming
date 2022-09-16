@@ -20,6 +20,5 @@ i = 0;
 *}
 */
 printf("infinite ioop avoided! \\o/\n");
-
 return (0);
 }
