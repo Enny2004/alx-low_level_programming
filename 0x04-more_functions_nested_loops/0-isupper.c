@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _isupper-check uppercase character
- * @n: function takes c as input
+ * @c: function takes c as input
  *
  * Return: 1 or 0 if uppercase or lowercase
  */
@@ -13,5 +13,5 @@ int _isupper(int c)
 		return (1);
 	}
 
-	return(0);
+	return (0);
 }
