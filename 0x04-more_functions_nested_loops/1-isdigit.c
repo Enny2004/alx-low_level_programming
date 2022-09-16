@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main-checks for digit
- * @c: Takes c as input
+ * @c: function takes c as input
  *
  * Return: 1 if c is a digit
  * Return 0 if otherwise
