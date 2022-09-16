@@ -3,12 +3,12 @@
  * _isupper-check uppercase character
  * @n: function takes c as input
  *
- * Return: 1 if uppercase
- * Return 0 if not uppercase
+ * Return: 1 or 0 if uppercase or lowercase
  */
 int _isupper(int c)
 {
 	if (c > 64 && c < 91)
+
 	{
 		return (1);
 	}
