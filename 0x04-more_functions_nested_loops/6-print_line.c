@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_line - function that draws a straight line
- * @n: The number that should be printed
+ * @n: The number _ that should be printed
  */
 void print_line(int n)
 {
