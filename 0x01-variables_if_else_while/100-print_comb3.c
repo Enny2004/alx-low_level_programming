@@ -2,7 +2,7 @@
 /**
  * main-print all possible wo digit
  *
- * Return:Always (sucessful)
+ * Return: Always (sucessful)
  */
 int main(void)
 {
