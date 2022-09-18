@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * mmain- the entry point of the program
+ * main - the entry point of the program
  *
  * Return: Always 0
  */
