@@ -1,4 +1,23 @@
 #include "main.h"
+
+/**
+ * _strcat - returns the length of a given string
+ * @s: takes *s as input
+ *
+ * Return: the length of *s
+ */
+int _strlen(char *s)
+{
+	int i;
+
+	for (i = 0; *s != '\0'; i++)
+	{
+		s++;
+	}
+
+	return (i);
+}
+
 /**
  * _strcat - concatenates two strings
  *
