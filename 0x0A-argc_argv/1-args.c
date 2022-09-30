@@ -2,10 +2,10 @@
 /**
  * main - prints the number of argument passed into it
  * @argc: number of command line arguments
- * @argv: arraythat contains the program command line argument
- * Return: 0
+ * @argv: array that contains the program command line argument
+ * Return: 0 - success
  */
-int main(int argc, char *argv[] __attribut__((unused)))
+int main(int argc, char *argv[] __attribute__((unused)))
 {
 	printf("%d\n", argc - 1);
 	return (0);
