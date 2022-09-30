@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * infinite_add - adds two numbers
  * @n1: number 1
@@ -30,6 +31,7 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r)
 		m = n / 10;
 
 		r[k] = n % 10 + '0';
+
 	}
 	r[k] = '\n';
 	if (i >= 0 || j >= 0 || m)
