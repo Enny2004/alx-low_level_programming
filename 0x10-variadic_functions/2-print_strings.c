@@ -2,7 +2,7 @@
 
 /**
  * print_strings - prints strings
- * @: separator: strings to be printed between the strings
+ * @separator: strings to be printed between the strings
  * @n: number of strings passed in the function
  */
 void print_strings(const char *separator, const unsigned int n, ...)
@@ -26,6 +26,6 @@ void print_strings(const char *separator, const unsigned int n, ...)
 			if (separator)
 				printf("%s", separator);
 	}
-	printf ("\n");
+	printf("\n");
 	va_end(valist);
 }
